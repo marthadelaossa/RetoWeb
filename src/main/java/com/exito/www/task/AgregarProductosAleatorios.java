@@ -26,6 +26,12 @@ public class AgregarProductosAleatorios implements Task {
 
     @Override
     public <T extends Actor> void performAs(T actor) {
+        
+        if (paginaPrincipalUI.POPUP_PROMOCION.resolveFor(actor).isClickable()) {
+            actor.attemptsTo(
+                    Click.on(paginaPrincipalUI.POPUP_PROMOCION)
+            );
+        }
         actor.attemptsTo(
                 WaitUntil.the(paginaPrincipalUI.BTN_MEMU, isClickable()).forNoMoreThan(10).seconds(),
                 Click.on(paginaPrincipalUI.BTN_MEMU),

@@ -1,0 +1,10 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(«“¨Ύϊÿÿÿÿ
+j	java:S116	"VRename this field "INPUT_EMAIL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ¬{
+r	java:S116
+"XRename this field "BTN_CONFIRMAR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­”ΒΊόÿÿÿÿ
+p	java:S116"VRename this field "LBL_CARRITO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Τ§‹ωÿÿÿÿ
+s	java:S116"^Rename this field "LBL_TOTAL_PRODUCTOS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(θΘ…σ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ξ€ρθύÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ςΧόÿÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Δώςϊÿÿÿÿ

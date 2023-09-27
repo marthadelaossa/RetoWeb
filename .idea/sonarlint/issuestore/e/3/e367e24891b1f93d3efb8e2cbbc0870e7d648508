@@ -1,0 +1,13 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(«“¨¾úÿÿÿÿ
+n	java:S116"YRename this field "LBL_RESULTADOS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àñ
+r	java:S116"XRename this field "BTN_PRODUCTOS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨¬­Ïşÿÿÿÿ
+p	java:S116	"VRename this field "BTN_AGREGAR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖôºÃûÿÿÿÿ
+o	java:S116
+"ZRename this field "BTN_AGREGAR_MAS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áö¡
+w	java:S116"bRename this field "BTN_CONTINUAR_COMPRANDO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à¦è
+|	java:S116"bRename this field "POPUP_PRODUCTO_AGREGADO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íƒÏüÿÿÿÿ
+x	java:S116"^Rename this field "LBL_NOMBRE_PRODUCTO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿıæ­ÿÿÿÿÿ
+x	java:S116"^Rename this field "LBL_PRECIO_PRODUCTO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ôÔúÿÿÿÿ
+v	java:S116"aRename this field "LBL_CANTIDAD_PRODUCTOS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¸Ã‘
+k	java:S116"VRename this field "BTN_CARRITO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ï±‰
